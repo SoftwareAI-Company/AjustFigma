@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+user-agents
+waitress
+watchdog

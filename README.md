@@ -97,7 +97,3 @@ python pipeline.py
 ## 🧯 To Stop
 
 Press `Ctrl + C` to stop watching the files.
-
----
-
-Se quiser, também posso gerar um script `setup.sh` ou `start.sh` para automatizar a instalação e execução. Deseja isso também?

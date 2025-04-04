@@ -99,16 +99,5 @@ python pipeline.py
 Press `Ctrl + C` to stop watching the files.
 
 ---
-```
-
----
-
-### 📦 `requirements.txt`
-
-```txt
-watchdog
-```
-
----
 
 Se quiser, também posso gerar um script `setup.sh` ou `start.sh` para automatizar a instalação e execução. Deseja isso também?
